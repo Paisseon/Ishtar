@@ -1,0 +1,11 @@
+Package: lilliana.ishtar
+Name: Ishtar
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Use VIP cheats with a free account
+Maintainer: Lilliana
+Author: Lilliana
+Section: Tweaks (Piracy)
+Depends: firmware (>= 12.2)
+SileoDepiction: https://paisseon.github.io/depictions/ishtar.json
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/ishtar.json&name=Ishtar&dev=Paisseon
